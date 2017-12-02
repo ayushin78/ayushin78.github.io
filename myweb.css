@@ -31,7 +31,7 @@ h3 { font-size: 28px; }
 #home {
   padding: 250px 0 200px 0;
   margin-top: auto;
-  background: url("home.jpg") no-repeat center center;
+  background: url("images/home.jpg") no-repeat center center;
   background-size: cover;
   color: white;
   letter-spacing: 3px;
